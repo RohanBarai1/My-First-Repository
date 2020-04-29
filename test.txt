@@ -1,4 +1,2 @@
 Hello from Git Tutorial!
 See you in next video.
-
-Changes Made locally.
